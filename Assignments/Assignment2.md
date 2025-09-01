@@ -55,9 +55,12 @@ A new student studied **6 hours**. We want to predict the **Exam Score** using t
 $$
 m = \frac{n(\sum xy) - (\sum x)(\sum y)}{n(\sum x^2) - (\sum x)^2}
 $$
+|   $$n$$ = **5**      | $Σx$ = **15**        | $Σx$ = **305**     | $Σxy$ = **959** | $Σx^2$ = **55** |
+
+
 
 $$
-m = ?
+m = 4.4
 $$
 
 ---
