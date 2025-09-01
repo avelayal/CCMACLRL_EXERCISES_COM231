@@ -179,4 +179,3 @@ $$
 y = 74.2
 $$
 
-<img width="2048" height="1152" alt="image" src="https://github.com/user-attachments/assets/db2e5bd5-99da-4661-a5c3-b275ad92ae5b" />
