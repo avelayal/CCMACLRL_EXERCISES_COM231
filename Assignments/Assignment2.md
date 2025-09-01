@@ -108,8 +108,8 @@ $$
 - Use a circle 🔵 for all data points
 - Use a red line for the regression line
 
-| **y** predict                  | 
-| ------------------------------ | 
+| **y** predict       |  predict      |
+| --------------------|---------------| 
 | y = 4.4(1) + 47.8 = |**52.2**       | 
 | y = 4.4(2) + 47.8 = |**56.6**       | 
 | y = 4.4(3) + 47.8 = |**61.0**       | 
