@@ -66,6 +66,7 @@ $$
 m = 4.4
 $$
 
+
 ---
 
 ## 3: Compute the Intercept $b$ (5 points)
@@ -75,7 +76,11 @@ b = \frac{\sum y - m \sum x}{n}
 $$
 
 $$
-b = ?
+b = \frac{305 -(4.4)(15)}{5}
+$$
+
+$$
+b = 47.8
 $$
 
 ---
