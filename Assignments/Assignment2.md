@@ -1,5 +1,7 @@
 # Linear Regression Activity: Predicting Exam Scores
 
+## hi, sir. sorry nwalan po tinta ballpen q
+
 We want to predict a student’s **Exam Score ($y$)** based on the number of **Hours Studied ($x$)**.
 
 ---
@@ -106,13 +108,24 @@ $$
 - Use a circle 🔵 for all data points
 - Use a red line for the regression line
 
+| **y** predict                  | 
+| ------------------------------ | 
+| y = 4.4(1) + 47.8 = 52.2       | 
+| y = 4.4(2) + 47.8 = 56.6       | 
+| y = 4.4(3) + 47.8 = 61.0       | 
+| y = 4.4(4) + 47.8 = 65.4       | 
+| y = 4.4(5) + 47.8 = 69.8       | 
+
 | Student | Hours Studied ($x$) | Exam Score ($y$) | Predicted Exam Score ($y_{predict}$) |
 | ------- | ------------------- | ---------------- | ------------------------------------ |
-| 1       | 1                   | 52               | ?                                    |
-| 2       | 2                   | 57               | ?                                    |
-| 3       | 3                   | 61               | ?                                    |
-| 4       | 4                   | 65               | ?                                    |
-| 5       | 5                   | 70               | ?                                    |
+| 1       | 1                   | 52               | 52.2                                 |
+| 2       | 2                   | 57               | 56.6                                 |
+| 3       | 3                   | 61               | 61.0                                 |
+| 4       | 4                   | 65               | 65.4                                 |
+| 5       | 5                   | 70               | 69.8                                 |
+
+<img width="868" height="696" alt="REGRELINE" src="https://github.com/user-attachments/assets/57667583-e38d-437d-a5d1-cd0e2477fe17" />
+
 
 ---
 
@@ -121,6 +134,7 @@ $$
 $$
 SSE = \sum (y*i - y*{predict})^2
 $$
+
 
 | Student | Hours Studied ($x$) | Exam Score ($y$) | Predicted Exam Score ($y_{predict}$) | $y_i-y_{predict}$ | $(y_i-y_{predict})^2$ |
 | ------- | ------------------- | ---------------- | ------------------------------------ | ----------------- | --------------------- |
